@@ -15,6 +15,12 @@ public class ForLoops {
 		 System.out.println("Hello");
 	// for(int i=10; i>0;i--) {
 		 //System.out.println("value of i is: "+i);
+		char i=65;
+		while(i<=90) {
+			i++;
+			System.out.print(i);
+		}
+		
 		
 }
 }
